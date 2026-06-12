@@ -1,3 +1,6 @@
+# Credit Risk Scorecard
+
+**Live Demo:** [Launch App]https://credit-risk-scorecard-crs.streamlit.app/
 ## Overview
 End-to-end credit risk scoring system built on Home Credit Default Risk dataset (307,511 loans).
 
