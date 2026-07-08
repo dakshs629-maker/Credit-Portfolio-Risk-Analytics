@@ -3,5 +3,7 @@ pandas
 numpy
 xgboost
 scikit-learn
+scipy
+matplotlib
 shap
 anthropic
